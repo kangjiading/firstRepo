@@ -1,4 +1,3 @@
 Git is a version control system.
 Git is free software.
 kangjiading
-加中文
